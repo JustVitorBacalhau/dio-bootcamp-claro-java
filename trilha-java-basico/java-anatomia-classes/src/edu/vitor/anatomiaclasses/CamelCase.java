@@ -1,3 +1,4 @@
+package edu.vitor.anatomiaclasses;
 public class CamelCase { // Padrão de escrita de uma classe java, CamelCase, onde a primeira palava da classe é maiúscula e a segunda palavra começa com uma letra maiúscula também.
   
   public static void main(String [] args) {
